@@ -38,7 +38,7 @@ function VideoFooter({ likes, channel, avatarSrc,progress }) {
           </div>
         </div>
       </div>
-      <div className="absolute mt-[34px] -ml-6 w-[110%]">
+      <div className="absolute mt-[30px] -ml-6 w-[110%]">
       <div className="w-full mt-7 rounded-md h-2 bg-[#ddd]">
         <div
           className="h-full bg-[#4caf50] rounded-md transition-width duration-300 ease-in-out"
