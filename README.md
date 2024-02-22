@@ -24,7 +24,7 @@ Make sure you have the following installed:
 
 ### Installation
 
-1. Clone the repository: git clone [https://github.com/your-username/startup-project](https://github.com/anmolpal2001/youtube_shorts).git
+1. Clone the repository: git clone https://github.com/anmolpal2001/youtube_shorts.git
 2. cd youtube_shorts
 3. npm install
 4. npm run dev
